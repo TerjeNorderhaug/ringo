@@ -39,6 +39,7 @@ First-time Clojure developers, assuming you have [jdk7 or above](http://www.orac
 Checkout new leiningen template (a boilerplate/generator for new projects)
 
     lein new ringo kickstart
+    cd kickstart
 
 The project structure looks like this:
 
